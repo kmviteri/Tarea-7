@@ -58,6 +58,15 @@ https://youtu.be/DRcRd8Fse_Z
 
 # 5.CONCLUSIONES
 
+* La inductancia (medida en henrios H) tienen su corriente moviéndose de forma circular, mientras más campo magnético haya quiere decir que tenemos más espiras cerca y por tanto, mayor corriente; para determinar la inductancia hay que seguir la fórmula establecida la cuál dicta que inductancia es igual al número de espiras al cuadrado multiplicado por la permeabilidad y su área de sección (m^2), todo eso entre la longitud de lineas de flujo (m).
+
+* El voltaje de salida de un transformador depende de la relacion de vueltas (n) en sus devanados, asi como su voltaje primario
+
+# 6.BIBLIOGRAFIA
+
+*F. (2021). Principles Of Electric Circuits, 8Ed. Pearson.
+
+
   
 
 
